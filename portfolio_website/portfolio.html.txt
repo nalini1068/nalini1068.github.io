@@ -1,0 +1,16 @@
+<html>
+ <html>
+   <title>Nalinis Portfolio</title>
+  </head>
+  <body>
+   <h1>Nalinis Life</h1>
+<p>I am a 17 year girl that loves too try new things and have fun.
+I tend to get bored really fast so I always need to be engaged in different 
+activities which also usually involoves my sisters.Some of the things we do 
+together involve swimming and <b>dancing,/b>.</p>
+<img src="activities.jpeg=0"
+style="width:550;height:550;">
+<a href="https://www.bing.com/videos/search?q=sanasani&qpvt=sanasani&FORM=VDRE>Visit Youtube.com!</a>
+
+  </body>
+</html>
