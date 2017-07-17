@@ -4,10 +4,15 @@
   </head>
   <body>
    <h1>Nalinis Life</h1>
-<p>I am a 17 year girl that loves too try new things and have fun.
-I tend to get bored really fast so I always need to be engaged in different 
-activities which also usually involoves my sisters.Some of the things we do 
-together involve swimming and <b>dancing,/b>.</p>
+<p>My name is Nalini Ramdeo and I am a 17 years old.
+I live in Queens and attend Townsend Harris High School.
+I also have two sisters which I do many activities with.
+One of our favorite hobbies is dancing.
+<h/1>Sanasani Dancers</h1>
+<p>We are all part of a non-for-profit organization called the Sanasani Cultural Organization.
+In this organization we perform at cultural and non cultural events, take part in cancer walks,
+march in LGBTQ parades and also volunteer at local beach cleanups.<p>
+
 <img src="activities.jpeg=0"
 style="width:550;height:550;">
 <a href="https://www.bing.com/videos/search?q=sanasani&qpvt=sanasani&FORM=VDRE>Visit Youtube.com!</a>
