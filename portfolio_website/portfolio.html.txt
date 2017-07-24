@@ -1,14 +1,17 @@
 <html>
- <html>
+ <head>
    <title>Nalinis Portfolio</title>
+   <style>
+     body {
+     background-color: black;
+     }
+    </style>
   </head>
-  <style>
-body {
-background-color: black;
-}
+
   <body>
 
    <h1>About Me</h1>
+   <h2>NALINI RAMDEO</h2>
 <p>My name is Nalini Ramdeo and I am a 17 years old.
 I live in Queens and attend Townsend Harris High School.
 I also have two sisters which I do many activities with.
